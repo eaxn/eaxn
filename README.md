@@ -6,7 +6,7 @@
   -  E-Mail: contact@x7t8c.xyz
   -  Letter: 
          Address: Germany, 16225 Eberswalde: Tornower Straße, 33
-  -  Discord: mangosaftlama ᓚᘏᗢ#5995
+  -  Discord: saftlama#5995
   -  Phone: +4915120237065
 
 <!---
