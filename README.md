@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to develop with C++, C, JavaScript (React) and C#...
 - 💞️ I’m looking to collaborate on spigot plugins, which I'm interested in...
 - 📫 How to reach me:
-  -  E-Mail: contact@x7t8c.xyz
+  -  E-Mail: jannsaftlama@x7t8c.xyz
   -  Letter: 
          Address: Germany, 16225 Eberswalde: Tornower Straße, 33
   -  Discord: mango.x7t8c#5995
