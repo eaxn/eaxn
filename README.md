@@ -8,7 +8,7 @@
   -  E-Mail: jannsaftlama@x7t8c.xyz
   -  Letter: 
          Address: Germany, 16225 Eberswalde: Tornower Straße, 33
-  -  Discord: mango.x7t8c#5995
+  -  Discord: mango78#0001
   -  Phone: +4915120237065
 
 <!---
