@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/573876541822599199)](https://discord.com/users/573876541822599199)
+
 - 👋 Hi, I’m @jannsaftlama (Jann Pächnatz)
 - 👀 I’m interested in machine learning, C++, OOP, React, Java, C, Go, Game Engines
 - 🌱 I’m currently learning to develop with C++, C, JavaScript (React) and C#...
