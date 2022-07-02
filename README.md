@@ -5,11 +5,9 @@
 - 🌱 I’m currently learning to develop with C++, C, JavaScript (React) and C#...
 - 💞️ I’m looking to collaborate on spigot plugins, which I'm interested in...
 - 📫 How to reach me:
-  -  E-Mail: jannsaftlama@x7t8c.xyz
-  -  Letter: 
-         Address: Germany, 16225 Eberswalde: Tornower Straße, 33
+  -  E-Mail: jann@mangosaftlama.de
   -  Discord: mango78#0001
-  -  Phone: +4915120237065
+  - [Contact](https://web.jann.dev/contact)
 
 <!---
 jannsaftlama/jannsaftlama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
