@@ -7,7 +7,7 @@
 - 📫 How to reach me:
   -  E-Mail: jann@mangosaftlama.de
   -  Discord: mango78#0001
-  - [Contact](https://web.jann.dev/contact)
+  - [Contact](https://jann.dev/contact)
 
 <!---
 jannsaftlama/jannsaftlama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
